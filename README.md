@@ -4,7 +4,7 @@ is similar to [Simulink Design Optimization](https://www.mathworks.com/help/sldo
 
 `Control System Toolbox` is required.
 
-V-Tiger is ported to Python (https://github.com/takoyagi77/vtiger4python)[4]. Thank you very much to takoyagi77.
+V-Tiger is ported to [Python](https://github.com/takoyagi77/vtiger4python)[4]. Thank you very much to takoyagi77.
 
 ### Examples
 
