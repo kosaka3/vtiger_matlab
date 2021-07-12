@@ -4,6 +4,8 @@ is similar to [Simulink Design Optimization](https://www.mathworks.com/help/sldo
 
 `Control System Toolbox` is required.
 
+V-Tiger is ported to Python (https://github.com/takoyagi77/vtiger4python)[4]. Thank you very much to takoyagi77.
+
 ### Examples
 
 vtigerPID.m is a m-file to design PID controller using just only plant input/output step responses, and used in vtiger_demo.m. Please type:
@@ -33,3 +35,5 @@ Data-driven control, Time response, Gain tuning.
 [2] M. Kosaka et al., Virtual Time-response based Iterative Gain Evaluation and Redesign, T. of SICE, Vol. 56, No. 4, 2020  (in Japanese).
 
 [3] https://www.mathworks.com/help/sldo/ref/responseoptimizationtool-app.html
+
+[4] https://github.com/takoyagi77/vtiger4python
