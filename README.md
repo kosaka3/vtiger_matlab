@@ -20,7 +20,7 @@ exp(-0.1*s) * ---------------------
 ```
 using step responses data y00 instead of the plant model G(s). The overshoot and settling time is better than conventional Ziegler-Nichols rule method as follows:
 
-![](https://fc5d4f24-a-62cb3a1a-s-sites.googlegroups.com/site/kosaka3lab/fairu--kyabinetto/vtiger_fig1.png)
+[Fig. 1 PID control results.](https://drive.google.com/file/d/1t3M8k5wJvm8F_BIXJr3NHokQwZqsK5_I/view?usp=sharing)
 
 ### Overview
 
@@ -30,9 +30,9 @@ Since Artificial Intelligence (AI) has won over human pros such as Chess, Shogi 
 Data-driven control, Time response, Gain tuning.
 
 ### References
-[1] M. Kosaka et al., Virtual Time-response based Iterative Gain Evaluation and Redesign, In the proc. of the IFAC World Congress 2020 at Berlin (IFAC-PapersOnLine in 2020), July 2020.
+[1] [M. Kosaka et al., Virtual Time-response based Iterative Gain Evaluation and Redesign, In the proc. of the IFAC World Congress 2020 at Berlin (IFAC-PapersOnLine in 2020), July 2020.](https://www.sciencedirect.com/science/article/pii/S2405896320329098)
 
-[2] M. Kosaka et al., Virtual Time-response based Iterative Gain Evaluation and Redesign, T. of SICE, Vol. 56, No. 4, 2020  (in Japanese).
+[2] [M. Kosaka et al., Virtual Time-response based Iterative Gain Evaluation and Redesign, T. of SICE, Vol. 56, No. 4, 2020  (in Japanese).](https://www.jstage.jst.go.jp/article/sicetr/56/4/56_227/_article/-char/ja)
 
 [3] https://www.mathworks.com/help/sldo/ref/responseoptimizationtool-app.html
 
